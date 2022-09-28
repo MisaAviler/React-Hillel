@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  position: absolute;
+}
+button{
+  width: 30%;
+  height:10%;
+  top: 10%;
+  position: absolute;
+  background-color: #664c4c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
